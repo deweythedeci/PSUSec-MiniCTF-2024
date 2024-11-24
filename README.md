@@ -23,8 +23,7 @@ For some reason, I can't seem to open this PNG file. Can you help me?
 ---
 
 ### **strings_in_a_haystack**  
-I have a program for you to see if your flag is correct.  
-Oh. You don't have the flag yet? Oh well...
+I have a program for you to see if your flag is correct. Oh. You don't have the flag yet? Oh well...
 
 ---
 
