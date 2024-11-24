@@ -33,7 +33,7 @@ This super secure program has the flag apparently, but it won't let me see it!
 ---
 
 ### **rev_me**
-This python script can tell me if I have the correct flag or not. Maybe you can piece it together?
+This Python script can tell me if I have the correct flag or not. Maybe you can piece it together?
 
 ---
 
