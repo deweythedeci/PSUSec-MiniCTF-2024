@@ -31,3 +31,8 @@ Oh. You don't have the flag yet? Oh well...
 
 ### **pwn_me**  
 This super secure program has the flag apparently, but it won't let me see it!
+
+---
+
+### **decrypt_me**
+You have the flag but no way to decrypt it! Luckily, you do have the tool that was used to encrypt it.
