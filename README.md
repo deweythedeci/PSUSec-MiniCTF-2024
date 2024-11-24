@@ -9,7 +9,7 @@ The flag format is `flag{...}`.
 
 ### **where_am_i**  
 Can you figure out the location of this image?  
-Give you answer as coordinates as in the following `flag{##.###,##.###}`
+Give you answer as coordinates as in the following `flag{XX.XXX,XX.XXX}`
 
 ---
 
