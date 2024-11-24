@@ -8,8 +8,8 @@ The flag format is `flag{...}`.
 ## Problems
 
 ### **where_am_i**  
-Can you figure out the location of this image?
-For this problem, give the street address of the Citgo shown.
+Can you figure out the location of this image?  
+Give you answer using coordiates. i.e. flag{##.###,##.###}
 
 ---
 
@@ -24,7 +24,7 @@ For some reason, I can't seem to open this PNG file. Can you help me?
 ---
 
 ### **strings_in_a_haystack**  
-I have a program for you to see if your flag is correct.
+I have a program for you to see if your flag is correct.  
 Oh. You don't have the flag yet? Oh well...
 
 ---
