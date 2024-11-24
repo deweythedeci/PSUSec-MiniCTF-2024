@@ -17,6 +17,11 @@ You have the flag but no way to decrypt it! Luckily, you do have the tool that w
 
 ---
 
+### **in_fine_print**  
+Supposedly, this image has a flag in it, but I can't find it. Where could it be?
+
+---
+
 ### **not_a_png**  
 For some reason, I can't seem to open this PNG file. Can you help me?
 
@@ -24,6 +29,11 @@ For some reason, I can't seem to open this PNG file. Can you help me?
 
 ### **pwn_me**  
 This super secure program has the flag apparently, but it won't let me see it!
+
+---
+
+### **rev_me**
+This python script can tell me if I have the correct flag or not. Maybe you can piece it together?
 
 ---
 
