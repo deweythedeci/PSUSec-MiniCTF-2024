@@ -7,7 +7,13 @@ The flag format is `flag{...}`.
 
 ## Problems
 
-### **crack_me**  
+### **behind lock_and_key**
+I have created a perfectly secure RSA implementation! Or at least I think I did...  
+I kind of forgot how RSA works so I made it up. Do you think you can crack it?
+
+---
+
+### **crack_the_cipher**  
 You have the flag but no way to decrypt it! Luckily, you do have the tool that was used to encrypt it.
 
 ---
@@ -19,12 +25,6 @@ I have this flag for you, but I dropped it and it feel through a few encoding sc
 
 ### **in_fine_print**  
 Supposedly, this image has a flag in it, but I can't find it. Where could it be?
-
----
-
-### **lock_and_key**
-I have created a perfectly secure RSA implementation! Or at least I think I did...  
-I kind of forgot how RSA works so I made it up. Do you think you can crack it?
 
 ---
 
