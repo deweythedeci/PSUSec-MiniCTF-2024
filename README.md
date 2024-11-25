@@ -8,7 +8,7 @@ The flag format is `flag{...}`.
 ## Problems
 
 ### **decode_me**  
-I have this flag for you, but it looks like it got encoded somehow. Sorry!
+I have this flag for you, but I dropped it and it feel through a few encoding schemes. Sorry!
 
 ---
 
