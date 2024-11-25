@@ -7,7 +7,7 @@ The flag format is `flag{...}`.
 
 ## Problems
 
-### **behind lock_and_key**
+### **behind_lock_and_key**
 I have created a perfectly secure RSA implementation! Or at least I think I did...  
 I kind of forgot how RSA works so I made it up. Do you think you can crack it?
 
@@ -20,6 +20,11 @@ You have the flag but no way to decrypt it! Luckily, you do have the tool that w
 
 ### **decode_me**  
 I have this flag for you, but I dropped it and it feel through a few encoding schemes. Sorry!
+
+---
+
+### **down_the_rabbit_hole**
+I got a bunch of files for you. I'm sure the flag's in there somewhere.
 
 ---
 
