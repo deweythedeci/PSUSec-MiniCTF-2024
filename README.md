@@ -7,13 +7,13 @@ The flag format is `flag{...}`.
 
 ## Problems
 
-### **decode_me**  
-I have this flag for you, but I dropped it and it feel through a few encoding schemes. Sorry!
+### **crack_me**  
+You have the flag but no way to decrypt it! Luckily, you do have the tool that was used to encrypt it.
 
 ---
 
-### **decrypt_me**  
-You have the flag but no way to decrypt it! Luckily, you do have the tool that was used to encrypt it.
+### **decode_me**  
+I have this flag for you, but I dropped it and it feel through a few encoding schemes. Sorry!
 
 ---
 
