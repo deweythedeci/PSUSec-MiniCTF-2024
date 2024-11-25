@@ -24,7 +24,7 @@ I have this flag for you, but I dropped it and it feel through a few encoding sc
 ---
 
 ### **down_the_rabbit_hole**
-I got a bunch of files for you. I'm sure the flag's in there somewhere.
+I got a bunch of files for you. I'm sure the flag's in there somewhere. Better get looking then!
 
 ---
 
