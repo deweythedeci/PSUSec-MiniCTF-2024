@@ -5,7 +5,7 @@ def check_flag(flag):
         return False
     if(ord(flag[0]) % 100 - 3 != -1):
         return False
-    if(ord(flag[1]) >> 2 != 26):
+    if(ord(flag[1]) >> 2 != 27):
         return False
     if(ord(flag[4]) + 27 != 150):
         return False
